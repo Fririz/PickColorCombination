@@ -1,0 +1,10 @@
+C:\Users\Fririz\Desktop\Folders\С_sharp\MyProjects\PickColorCombinations\bin\Debug\PickColorCombinations.exe.config
+C:\Users\Fririz\Desktop\Folders\С_sharp\MyProjects\PickColorCombinations\bin\Debug\PickColorCombinations.exe
+C:\Users\Fririz\Desktop\Folders\С_sharp\MyProjects\PickColorCombinations\bin\Debug\PickColorCombinations.pdb
+C:\Users\Fririz\Desktop\Folders\С_sharp\MyProjects\PickColorCombinations\obj\Debug\PickColorCombinations.csprojAssemblyReference.cache
+C:\Users\Fririz\Desktop\Folders\С_sharp\MyProjects\PickColorCombinations\obj\Debug\PickColorCombinations.Form1.resources
+C:\Users\Fririz\Desktop\Folders\С_sharp\MyProjects\PickColorCombinations\obj\Debug\PickColorCombinations.Properties.Resources.resources
+C:\Users\Fririz\Desktop\Folders\С_sharp\MyProjects\PickColorCombinations\obj\Debug\PickColorCombinations.csproj.GenerateResource.cache
+C:\Users\Fririz\Desktop\Folders\С_sharp\MyProjects\PickColorCombinations\obj\Debug\PickColorCombinations.csproj.CoreCompileInputs.cache
+C:\Users\Fririz\Desktop\Folders\С_sharp\MyProjects\PickColorCombinations\obj\Debug\PickColorCombinations.exe
+C:\Users\Fririz\Desktop\Folders\С_sharp\MyProjects\PickColorCombinations\obj\Debug\PickColorCombinations.pdb
